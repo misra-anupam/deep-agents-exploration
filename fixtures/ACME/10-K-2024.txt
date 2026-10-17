@@ -1,0 +1,51 @@
+ACME INDUSTRIAL CORP (SYNTHETIC - FICTIONAL COMPANY FOR TESTING)
+ANNUAL REPORT ON FORM 10-K FOR THE FISCAL YEAR ENDED DECEMBER 31, 2024
+
+Item 1. Business
+
+ACME Industrial Corp designs and sells industrial fastening systems to
+construction and manufacturing customers. We operate two segments: Distribution
+(approximately 70% of revenue) and Direct Sales (approximately 30% of revenue).
+
+Item 1A. Risk Factors
+
+Customer concentration. Our three largest distributors accounted for 41% of
+fiscal 2024 revenue, up from 33% in fiscal 2023. The loss of any of these
+distributors could materially affect results.
+
+Extended payment terms. To support growth in Distribution, we extended standard
+payment terms for certain distributors from 45 days to 75 days during fiscal
+2024. Longer terms increase our working capital needs and credit risk.
+
+Raw materials. Steel represents roughly 38% of our cost of revenue. Price
+volatility may affect margins.
+
+Item 7. Management's Discussion and Analysis
+
+Overview. Revenue grew 12.0% to $1,008.0 million in fiscal 2024 from $900.0
+million in fiscal 2023, driven by volume growth in Distribution. Gross margin
+was 41.0%, consistent with the prior year. Net income increased 17.7% to $113.0
+million.
+
+Liquidity. Net cash provided by operating activities was $87.0 million in
+fiscal 2024 compared with $88.0 million in fiscal 2023. The decrease was
+primarily due to an increase in accounts receivable, which rose to $182.0
+million from $135.0 million, reflecting higher sales to distributors in the
+fourth quarter and the extended payment terms described under Item 1A.
+
+Capital expenditures were $40.0 million, including $9.0 million for a new
+fulfillment facility. We expect fiscal 2025 capital expenditures of $45 to $50
+million.
+
+Outlook. We expect fiscal 2025 revenue growth of 8% to 10%.
+
+Item 8. Notes to Consolidated Financial Statements
+
+Note 4. Accounts Receivable. Accounts receivable are stated net of an allowance
+for credit losses of $3.1 million (2023: $3.0 million). Receivables from our
+three largest distributors totaled $88.0 million at December 31, 2024.
+
+Note 9. Revenue Recognition. Revenue from Distribution is recognized upon
+shipment. In the fourth quarter of fiscal 2024, shipments to distributors
+totaled $312.0 million, compared with $258.0 million in the fourth quarter of
+fiscal 2023.

@@ -1,0 +1,24 @@
+{
+  "ticker": "ACME",
+  "period": "FY2024",
+  "report_name": "ACME-FY2024.md",
+  "required_flags": [
+    {"code": "receivables_outpacing_revenue", "keywords": ["receivable"]},
+    {"code": "dso_rising", "keywords": ["dso", "days sales outstanding"]},
+    {"code": "weak_cash_conversion", "keywords": ["cash conversion", "operating cash flow", "cash from operations"]},
+    {"code": "extended_terms", "keywords": ["75 days", "payment terms"]}
+  ],
+  "required_figures": [
+    {"concept": "Revenues", "fy": 2024},
+    {"concept": "NetIncomeLoss", "fy": 2024},
+    {"concept": "AccountsReceivableNetCurrent", "fy": 2024}
+  ],
+  "thresholds": {
+    "numeric_grounding": 0.95,
+    "citation_coverage": 0.9,
+    "flag_recall": 1.0,
+    "required_figures": 1.0,
+    "violations": 0,
+    "plan_completion": 0.8
+  }
+}
